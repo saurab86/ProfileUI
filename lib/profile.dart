@@ -53,7 +53,9 @@ class _ProfileState extends State<Profile> {
            ),
 
           ),
-          Expanded(child: Container(
+          Expanded(
+            child:
+           Container(
             padding: EdgeInsets.only(top: 25),
             child: Column(
               mainAxisAlignment: MainAxisAlignment.start,
